@@ -1,8 +1,8 @@
 # Python-Development-Internship
-Machine learning projects completed during a Python Development Internship — covering classification and prediction tasks using Scikit-learn, Pandas, and Matplotlib.
+Machine learning projects completed during a Python Development Internship, covering classification and prediction tasks using Scikit-learn, Pandas, and Matplotlib.
 
-🐍 Python Development Internship
-This repository contains machine learning projects completed as part of my Python Development Internship. Each project covers a different core ML concept — from classification to regression — with full data analysis, feature engineering, model training, and visualization.
+🐍 Python Development Internship:
+This repository contains machine learning projects completed as part of my Python Development Internship. Each project covers a different core ML concept, from classification to regression, with full data analysis, feature engineering, model training, and visualization.
 
 📂 Projects
 1. 🚢 Titanic Survival Prediction
